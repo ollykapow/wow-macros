@@ -1,0 +1,3 @@
+#showtooltip Rend
+/use [form:3]Battle Stance
+/use [@mouseover,harm][]Rend

@@ -1,0 +1,3 @@
+#showtooltip [noworn:shields,form:1/2][form:3]Pummel;Shield Bash
+/use [noworn:shields,form:1/2]Berserker Stance
+/use [@mouseover,harm,worn:shields,form:1/2][worn:shields,form:1/2]Shield Bash;[@mouseover,harm][]Pummel

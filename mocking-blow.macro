@@ -1,0 +1,3 @@
+#showtooltip [form:2]Taunt;Mocking Blow
+/use [form:3]Battle Stance
+/use [@mouseover,harm,form:2][form:2]Taunt;[@mouseover,harm][]Mocking Blow

@@ -1,0 +1,3 @@
+#showtooltip Execute
+/use [form:2]Battle Stance
+/use [@mouseover,harm][]Execute
