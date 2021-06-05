@@ -1,3 +1,3 @@
-#showtooltip [noworn:shields] Vile Protector; Whirlwind Axe
-/eq [noworn:shields] Sword of Omen; Whirlwind Axe
-/eq [noworn:shields] Vile Protector
+#showtooltip [noworn:shields] <Shield>; <2H Weapon>
+/eq [noworn:shields] <1H Weapon>; <2H Weapon>
+/eq [noworn:shields] <Shield>
