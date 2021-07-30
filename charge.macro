@@ -1,3 +1,3 @@
-#showtooltip [combat]Intercept;Charge
-/use [@mouseover,harm,combat][combat]Berserker Stance;[@mouseover,harm][]Battle Stance
-/use [@mouseover,harm,combat][combat]Intercept;[@mouseover,harm][]Charge
+#showtooltip [help]Intervene;[combat]Intercept;Charge
+/use [help]Defensive Stance;[combat]Berserker Stance;[]Battle Stance
+/use [help]Intervene;[combat]Intercept;[]Charge
